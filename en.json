@@ -1,5 +1,5 @@
 {
-  "freight.plural": "{{numItems}}x Freight Modified",
+  "freight.plural": "{{numItems}}x Freight",
   "freight.singular": "Freight",
   "shipping.description.singular": "",
   "shipping.description.plural": "Each item is shipped separately with individual shipping cost based on weight"
