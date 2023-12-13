@@ -1,0 +1,6 @@
+{
+  "freight.plural": "{{numItems}}x Frakt",
+  "freight.singular": "Frakt",
+  "shipping.description.singular": "",
+  "shipping.description.plural": "Varje vara skickas separat med individuell fraktkostnad baserat på vikt"
+}
