@@ -1,0 +1,42 @@
+{
+    "Helt ny, med prislapp kvar": {
+        "en": "Brand new, with price tag still on",
+        "de": "Brandneu, mit Etikett",
+        "da": "Hele ny, med prisstickeren på",
+        "no": "Helt ny, med prislapp",
+        "ko": "가격표가 있는 새 제품",
+        "es": "Nuevo, con etiqueta aún",
+        "nl": "Nieuw, met prijskaartje eraan",
+        "sv": "Helt ny, med prislapp kvar"
+    },
+    "Helt ny, men utan prislapp": {
+        "en": "Brand new, but without price tag",
+        "de": "Brandneu, aber ohne Etikett",
+        "da": "Helt ny, men uden prissticker",
+        "no": "Helt ny, men uten prislapp",
+        "ko": "가격표 없는 새 제품",
+        "es": "Nuevo, pero sin etiqueta",
+        "nl": "Nieuw, zonder prijskaartje",
+        "sv": "Helt ny, men utan prislapp"
+    },
+    "Använd, men utan anmärkning": {
+        "en": "Used, but without remarks",
+        "de": "Gebraucht, aber ohne Anmerkung",
+        "da": "Brugt, men uden bemærkninger",
+        "no": "Brukt, men uten merknader",
+        "ko": "사용했지만 특이사항 없음",
+        "es": "Usado, pero sin marcas",
+        "nl": "Gebruikt, maar zonder opmerkingen",
+        "sv": "Använd, men utan anmärkning"
+    },
+    "Använd, tecken på slitage": {
+        "en": "Used, signs of wear",
+        "de": "Gebraucht, Anzeichen von Verschleiß",
+        "da": "Brugt, tegn på slid",
+        "no": "Brukt, tegn på slitasje",
+        "ko": "착용 감지됨, 사용 흔적",
+        "es": "Usado, señales de desgaste",
+        "nl": "Gebruikt, tekenen van slijtage",
+        "sv": "Använd, tecken på slitage"
+    }
+}

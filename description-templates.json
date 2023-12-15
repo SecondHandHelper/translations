@@ -1,0 +1,53 @@
+{
+    "line1": {
+      "sv": "${category} från Acne Studios, modell ${model}.",
+      "en": "${category} from Acne Studios, model ${model}.",
+      "de": "${category} von Acne Studios, Modell ${model}.",
+      "da": "${category} fra Acne Studios, model ${model}.",
+      "no": "${category} fra Acne Studios, modell ${model}.",
+      "ko": "${category} Acne Studios, modelo ${model}.",
+      "es": "${category} van Acne Studios, model ${model}.",
+      "nl": "${category} van Acne Studios, model ${model}."
+    },
+    "line2": {
+      "sv": "Storlek: ${size}",
+      "en": "Size: ${size}",
+      "de": "Größe: ${size}",
+      "da": "Størrelse: ${size}",
+      "no": "Størrelse: ${size}",
+      "ko": "크기: ${size}",
+      "es": "Tamaño: ${size}",
+      "nl": "Maat: ${size}"
+    },
+    "line3": {
+      "sv": "Material: ${material}",
+      "en": "Material: ${material}",
+      "de": "Material: ${material}",
+      "da": "Materiale: ${material}",
+      "no": "Materiale: ${material}",
+      "ko": "재질: ${material}",
+      "es": "Material: ${material}",
+      "nl": "Materiaal: ${material}"
+    },
+    "line4": {
+      "sv": "Nypris: ${originalPrice}",
+      "en": "Original price: ${originalPrice}",
+      "de": "Neupreis: ${originalPrice}",
+      "da": "Originalpris: ${originalPrice}",
+      "no": "Opprinnelig pris: ${originalPrice}",
+      "ko": "원래 가격: ${originalPrice}",
+      "es": "Precio original: ${originalPrice}",
+      "nl": "Oorspronkelijke prijs: ${originalPrice}"
+    },
+    "line5": {
+      "sv": "Skick: ${defects}",
+      "en": "Condition: ${defects}",
+      "de": "Zustand: ${defects}",
+      "da": "Stand: ${defects}",
+      "no": "Tilstand: ${defects}",
+      "ko": "상태: ${defects}",
+      "es": "Estado: ${defects}",
+      "nl": "Staat: ${defects}"
+    }
+  }
+  

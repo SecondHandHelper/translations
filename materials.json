@@ -1,0 +1,332 @@
+{
+    "Cashmere": {
+        "sv": "Kashmir",
+        "de": "Kaschmir",
+        "da": "Kashmir",
+        "no": "Kasjmir",
+        "ko": "캐시미어",
+        "es": "Cachemira",
+        "nl": "Kasjmier",
+        "en": "Cashmere"
+    },
+    "Cotton": {
+        "sv": "Bomull",
+        "de": "Baumwolle",
+        "da": "Bomuld",
+        "no": "Bomull",
+        "ko": "면",
+        "es": "Algodón",
+        "nl": "Katoen",
+        "en": "Cotton"
+    },
+    "Leather": {
+        "sv": "Läder",
+        "de": "Leder",
+        "da": "Læder",
+        "no": "Lær",
+        "ko": "가죽",
+        "es": "Cuero",
+        "nl": "Leer",
+        "en": "Leather"
+    },
+    "Exotic leathers": {
+        "sv": "Exotiskt läder",
+        "de": "Exotische Leder",
+        "da": "Eksotiske læder",
+        "no": "Eksotiske skinn",
+        "ko": "특이한 가죽",
+        "es": "Pieles exóticas",
+        "nl": "Exotisch leer",
+        "en": "Exotic leathers"
+    },
+    "Jeans": {
+        "sv": "Jeans",
+        "de": "Jeans",
+        "da": "Jeans",
+        "no": "Jeans",
+        "ko": "데님",
+        "es": "Jeans",
+        "nl": "Jeans",
+        "en": "Jeans"
+    },
+    "Spandex": {
+        "sv": "Spandex",
+        "de": "Spandex",
+        "da": "Spandex",
+        "no": "Spandex",
+        "ko": "스판덱스",
+        "es": "Spandex",
+        "nl": "Spandex",
+        "en": "Spandex"
+    },
+    "Wool": {
+        "sv": "Ull",
+        "de": "Wolle",
+        "da": "Uld",
+        "no": "Ull",
+        "ko": "울",
+        "es": "Lana",
+        "nl": "Wol",
+        "en": "Wool"
+    },
+    "Linen": {
+        "sv": "Linne",
+        "de": "Leinen",
+        "da": "Linned",
+        "no": "Linned",
+        "ko": "리넨",
+        "es": "Lino",
+        "nl": "Linnen",
+        "en": "Linen"
+    },
+    "Patent leather": {
+        "sv": "Läderimitation",
+        "de": "Lackleder",
+        "da": "Laklæder",
+        "no": "Patentlær",
+        "ko": "특허 가죽",
+        "es": "Charol",
+        "nl": "Lakleer",
+        "en": "Patent leather"
+    },
+    "Plastic": {
+        "sv": "Plast",
+        "de": "Plastik",
+        "da": "Plastik",
+        "no": "Plast",
+        "ko": "플라스틱",
+        "es": "Plástico",
+        "nl": "Plastic",
+        "en": "Plastic"
+    },
+    "Polyester": {
+        "sv": "Polyester",
+        "de": "Polyester",
+        "da": "Polyester",
+        "no": "Polyester",
+        "ko": "폴리에스터",
+        "es": "Poliéster",
+        "nl": "Polyester",
+        "en": "Polyester"
+    },
+    "Rubber": {
+        "sv": "Gummi",
+        "de": "Gummi",
+        "da": "Gummi",
+        "no": "Gummi",
+        "ko": "고무",
+        "es": "Goma",
+        "nl": "Rubber",
+        "en": "Rubber"
+    },
+    "Silk": {
+        "sv": "Silke",
+        "de": "Seide",
+        "da": "Silke",
+        "no": "Silke",
+        "ko": "비단",
+        "es": "Seda",
+        "nl": "Zijde",
+        "en": "Silk"
+    },
+    "Suede": {
+        "sv": "Mocka",
+        "de": "Wildleder",
+        "da": "Ruskind",
+        "no": "Semsket skinn",
+        "ko": "스웨이드",
+        "es": "Ante",
+        "nl": "Suède",
+        "en": "Suede"
+    },
+    "Synthetic": {
+        "sv": "Syntetisk",
+        "de": "Synthetisch",
+        "da": "Syntetisk",
+        "no": "Syntetisk",
+        "ko": "합성",
+        "es": "Sintético",
+        "nl": "Synthetisch",
+        "en": "Synthetic"
+    },
+    "Cloth": {
+        "sv": "Tyg",
+        "de": "Stoff",
+        "da": "Stof",
+        "no": "Stoff",
+        "ko": "천",
+        "es": "Tela",
+        "nl": "Doek",
+        "en": "Cloth"
+    },
+    "Velvet": {
+        "sv": "Sammet",
+        "de": "Samt",
+        "da": "Fløjl",
+        "no": "Fløyel",
+        "ko": "벨벳",
+        "es": "Terciopelo",
+        "nl": "Fluweel",
+        "en": "Velvet"
+    },
+    "Viscose": {
+        "sv": "Viskos",
+        "de": "Viskose",
+        "da": "Viskose",
+        "no": "Viskose",
+        "ko": "비스코스",
+        "es": "Viscosa",
+        "nl": "Viscose",
+        "en": "Viscose"
+    },
+    "Tweed": {
+        "sv": "Ylle",
+        "de": "Tweed",
+        "da": "Tweed",
+        "no": "Tweed",
+        "ko": "트위드",
+        "es": "Tweed",
+        "nl": "Tweed",
+        "en": "Tweed"
+    },
+    "Fur": {
+        "sv": "Päls",
+        "de": "Pelz",
+        "da": "Pels",
+        "no": "Pels",
+        "ko": "모피",
+        "es": "Piel",
+        "nl": "Bont",
+        "en": "Fur"
+    },
+    "Faux fur": {
+        "sv": "Fuskpäls",
+        "de": "Kunstpelz",
+        "da": "Imiteret pels",
+        "no": "Pelsimitasjon",
+        "ko": "인조 모피",
+        "es": "Piel sintética",
+        "nl": "Nepbont",
+        "en": "Faux fur"
+    },
+    "Glitter": {
+        "sv": "Glitter",
+        "de": "Glitzer",
+        "da": "Glitter",
+        "no": "Glitter",
+        "ko": "반짝임",
+        "es": "Brillo",
+        "nl": "Glitter",
+        "en": "Glitter"
+    },
+    "Sponge": {
+        "sv": "Skumgummi",
+        "de": "Schaumstoff",
+        "da": "Skumgummi",
+        "no": "Skumgummi",
+        "ko": "폼 고무",
+        "es": "Gomaespuma",
+        "nl": "Schuimrubber",
+        "en": "Sponge"
+    },
+    "White gold": {
+        "sv": "Vitt guld",
+        "de": "Weißgold",
+        "da": "Hvidguld",
+        "no": "Hvitt gull",
+        "ko": "화이트 골드",
+        "es": "Oro blanco",
+        "nl": "Witgoud",
+        "en": "White gold"
+    },
+    "Yellow gold": {
+        "sv": "Gult guld",
+        "de": "Gelbgold",
+        "da": "Guldguld",
+        "no": "Gult gull",
+        "ko": "옐로우 골드",
+        "es": "Oro amarillo",
+        "nl": "Geelgoud",
+        "en": "Yellow gold"
+    },
+    "Pink gold": {
+        "sv": "Rosa guld",
+        "de": "Roségold",
+        "da": "Rosaguld",
+        "no": "Rosa gull",
+        "ko": "핑크 골드",
+        "es": "Oro rosa",
+        "nl": "Roségoud",
+        "en": "Pink gold"
+    },
+    "Gold plated": {
+        "sv": "Guldpläterad",
+        "de": "Vergoldet",
+        "da": "Forgyldt",
+        "no": "Forgylt",
+        "ko": "금 도금",
+        "es": "Chapado en oro",
+        "nl": "Goud verguld",
+        "en": "Gold plated"
+    },
+    "Silver": {
+        "sv": "Silver",
+        "de": "Silber",
+        "da": "Sølv",
+        "no": "Sølv",
+        "ko": "은",
+        "es": "Plata",
+        "nl": "Zilver",
+        "en": "Silver"
+    },
+    "Silver Plated": {
+        "sv": "Silverpläterad",
+        "de": "Versilbert",
+        "da": "Sølvbelagt",
+        "no": "Sølvbelagt",
+        "ko": "은도금",
+        "es": "Chapado en plata",
+        "nl": "Zilver verguld",
+        "en": "Silver Plated"
+    },
+    "Metal": {
+        "sv": "Metall",
+        "de": "Metall",
+        "da": "Metal",
+        "no": "Metall",
+        "ko": "금속",
+        "es": "Metal",
+        "nl": "Metaal",
+        "en": "Metal"
+    },
+    "Steel": {
+        "sv": "Stål",
+        "de": "Steel",
+        "da": "Stål",
+        "no": "Stål",
+        "ko": "강철",
+        "es": "Acero",
+        "nl": "Staal",
+        "en": "Steel"
+    },
+    "Wood": {
+        "sv": "Trä",
+        "de": "Wood",
+        "da": "Træ",
+        "no": "Tre",
+        "ko": "나무",
+        "es": "Madera",
+        "nl": "Hout",
+        "en": "Wood"
+    },
+    "Other": {
+        "sv": "Annat",
+        "de": "Other",
+        "da": "Andere",
+        "no": "Annet",
+        "ko": "다른",
+        "es": "Otro",
+        "nl": "Anders",
+        "en": "Other"
+    }
+}
