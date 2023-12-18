@@ -1,13 +1,13 @@
 {
   "line1": {
-    "sv": "{{category}} från Acne Studios, modell {{model}}.",
-    "en": "{{category}} from Acne Studios, model {{model}}.",
-    "de": "{{category}} von Acne Studios, Modell {{model}}.",
-    "da": "{{category}} fra Acne Studios, model {{model}}.",
-    "no": "{{category}} fra Acne Studios, modell {{model}}.",
-    "ko": "{{category}} Acne Studios, modelo {{model}}.",
-    "es": "{{category}} van Acne Studios, model {{model}}.",
-    "nl": "{{category}} van Acne Studios, model {{model}}."
+    "sv": "{{category}} från {{cleanedBrand}}, modell {{cleanedModel}}.",
+    "en": "{{category}} from {{cleanedBrand}}, model {{cleanedModel}}.",
+    "de": "{{category}} von {{cleanedBrand}}, Modell {{cleanedModel}}.",
+    "da": "{{category}} fra {{cleanedBrand}}, model {{cleanedModel}}.",
+    "no": "{{category}} fra {{cleanedBrand}}, modell {{cleanedModel}}.",
+    "ko": "{{category}} {{cleanedBrand}}, modelo {{cleanedModel}}.",
+    "es": "{{category}} van {{cleanedBrand}}, model {{cleanedModel}}.",
+    "nl": "{{category}} van {{cleanedBrand}}, model {{cleanedModel}}."
   },
   "line2": {
     "sv": "Storlek: {{size}}",
