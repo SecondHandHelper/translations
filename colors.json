@@ -1,178 +1,178 @@
 {
-    "black": {
-        "en": "black",
-        "de": "schwarz",
-        "da": "sort",
-        "no": "svart",
-        "ko": "검정색",
-        "es": "negro",
-        "nl": "zwart",
-        "sv": "svart"
-    },
-    "white": {
-        "en": "white",
-        "de": "weiß",
-        "da": "hvid",
-        "no": "hvit",
-        "ko": "흰색",
-        "es": "blanco",
-        "nl": "wit",
-        "sv": "vit"
-    },
-    "blue": {
-        "en": "blue",
-        "de": "blau",
-        "da": "blå",
-        "no": "blå",
-        "ko": "파랑색",
-        "es": "azul",
-        "nl": "blauw",
-        "sv": "blå"
-    },
-    "red": {
-        "en": "red",
-        "de": "rot",
-        "da": "rød",
-        "no": "rød",
-        "ko": "빨강색",
-        "es": "rojo",
-        "nl": "rood",
-        "sv": "röd"
-    },
-    "yellow": {
-        "en": "yellow",
-        "de": "gelb",
-        "da": "gul",
-        "no": "gul",
-        "ko": "노랑색",
-        "es": "amarillo",
-        "nl": "geel",
-        "sv": "gul"
-    },
-    "green": {
-        "en": "green",
-        "de": "grün",
-        "da": "grøn",
-        "no": "grønn",
-        "ko": "초록색",
-        "es": "verde",
-        "nl": "groen",
-        "sv": "grön"
-    },
-    "multicolor": {
-        "en": "multicolor",
-        "de": "mehrfarbig",
-        "da": "multifarvet",
-        "no": "multifarget",
-        "ko": "다색",
-        "es": "multicolor",
-        "nl": "meerkleurig",
-        "sv": [
-            "flerfärgad",
-            "flerfärgad"
-        ]
-    },
-    "orange": {
-        "en": "orange",
-        "de": "orange",
-        "da": "orange",
-        "no": "oransje",
-        "ko": "주황색",
-        "es": "naranja",
-        "nl": "oranje",
-        "sv": "orange"
-    },
-    "beige": {
-        "en": "beige",
-        "de": "beige",
-        "da": "beige",
-        "no": "beige",
-        "ko": "베이지색",
-        "es": "beige",
-        "nl": "beige",
-        "sv": "beige"
-    },
-    "pink": {
-        "en": "pink",
-        "de": "rosa",
-        "da": "rosa",
-        "no": "rosa",
-        "ko": "분홍색",
-        "es": "rosa",
-        "nl": "roze",
-        "sv": "rosa"
-    },
-    "turquoise": {
-        "en": "turquoise",
-        "de": "türkis",
-        "da": "turkis",
-        "no": "turkis",
-        "ko": "청록색",
-        "es": "turquesa",
-        "nl": "turkoois",
-        "sv": "turkos"
-    },
-    "purple": {
-        "en": "purple",
-        "de": "lila",
-        "da": "lilla",
-        "no": "lilla",
-        "ko": "보라색",
-        "es": "morado",
-        "nl": "paars",
-        "sv": "lila"
-    },
-    "gray": {
-        "en": "gray",
-        "de": "grau",
-        "da": "grå",
-        "no": "grå",
-        "ko": "회색",
-        "es": "gris",
-        "nl": "grijs",
-        "sv": [
-            "grå",
-            "grey"
-        ]
-    },
-    "brown": {
-        "en": "brown",
-        "de": "braun",
-        "da": "brun",
-        "no": "brun",
-        "ko": "갈색",
-        "es": "marrón",
-        "nl": "bruin",
-        "sv": "brun"
-    },
-    "gold": {
-        "en": "gold",
-        "de": "gold",
-        "da": "guld",
-        "no": "gull",
-        "ko": "금색",
-        "es": "oro",
-        "nl": "goud",
-        "sv": "guld"
-    },
-    "silver": {
-        "en": "silver",
-        "de": "silber",
-        "da": "sølv",
-        "no": "sølv",
-        "ko": "은색",
-        "es": "plata",
-        "nl": "zilver",
-        "sv": "silver"
-    },
-    "bronze": {
-        "en": "bronze",
-        "de": "bronze",
-        "da": "bronze",
-        "no": "bronse",
-        "ko": "청동색",
-        "es": "bronce",
-        "nl": "brons",
-        "sv": "brons"
-    }
+  "black": {
+    "en": "black",
+    "de": "schwarz",
+    "da": "sort",
+    "no": "svart",
+    "ko": "검정색",
+    "es": "negro",
+    "nl": "zwart",
+    "sv": "svart"
+  },
+  "white": {
+    "en": "white",
+    "de": "weiß",
+    "da": "hvid",
+    "no": "hvit",
+    "ko": "흰색",
+    "es": "blanco",
+    "nl": "wit",
+    "sv": "vit"
+  },
+  "blue": {
+    "en": "blue",
+    "de": "blau",
+    "da": "blå",
+    "no": "blå",
+    "ko": "파랑색",
+    "es": "azul",
+    "nl": "blauw",
+    "sv": "blå"
+  },
+  "red": {
+    "en": "red",
+    "de": "rot",
+    "da": "rød",
+    "no": "rød",
+    "ko": "빨강색",
+    "es": "rojo",
+    "nl": "rood",
+    "sv": "röd"
+  },
+  "yellow": {
+    "en": "yellow",
+    "de": "gelb",
+    "da": "gul",
+    "no": "gul",
+    "ko": "노랑색",
+    "es": "amarillo",
+    "nl": "geel",
+    "sv": "gul"
+  },
+  "green": {
+    "en": "green",
+    "de": "grün",
+    "da": "grøn",
+    "no": "grønn",
+    "ko": "초록색",
+    "es": "verde",
+    "nl": "groen",
+    "sv": "grön"
+  },
+  "multicolor": {
+    "en": "multicolor",
+    "de": "mehrfarbig",
+    "da": "multifarvet",
+    "no": "multifarget",
+    "ko": "다색",
+    "es": "multicolor",
+    "nl": "meerkleurig",
+    "sv": [
+      "flerfärgad",
+      "flerfärgad"
+    ]
+  },
+  "orange": {
+    "en": "orange",
+    "de": "orange",
+    "da": "orange",
+    "no": "oransje",
+    "ko": "주황색",
+    "es": "naranja",
+    "nl": "oranje",
+    "sv": "orange"
+  },
+  "beige": {
+    "en": "beige",
+    "de": "beige",
+    "da": "beige",
+    "no": "beige",
+    "ko": "베이지색",
+    "es": "beige",
+    "nl": "beige",
+    "sv": "beige"
+  },
+  "pink": {
+    "en": "pink",
+    "de": "rosa",
+    "da": "rosa",
+    "no": "rosa",
+    "ko": "분홍색",
+    "es": "rosa",
+    "nl": "roze",
+    "sv": "rosa"
+  },
+  "turquoise": {
+    "en": "turquoise",
+    "de": "türkis",
+    "da": "turkis",
+    "no": "turkis",
+    "ko": "청록색",
+    "es": "turquesa",
+    "nl": "turkoois",
+    "sv": "turkos"
+  },
+  "purple": {
+    "en": "purple",
+    "de": "lila",
+    "da": "lilla",
+    "no": "lilla",
+    "ko": "보라색",
+    "es": "morado",
+    "nl": "paars",
+    "sv": "lila"
+  },
+  "gray": {
+    "en": "gray",
+    "de": "grau",
+    "da": "grå",
+    "no": "grå",
+    "ko": "회색",
+    "es": "gris",
+    "nl": "grijs",
+    "sv": [
+      "grå",
+      "grey"
+    ]
+  },
+  "brown": {
+    "en": "brown",
+    "de": "braun",
+    "da": "brun",
+    "no": "brun",
+    "ko": "갈색",
+    "es": "marrón",
+    "nl": "bruin",
+    "sv": "brun"
+  },
+  "gold": {
+    "en": "gold",
+    "de": "gold",
+    "da": "guld",
+    "no": "gull",
+    "ko": "금색",
+    "es": "oro",
+    "nl": "goud",
+    "sv": "guld"
+  },
+  "silver": {
+    "en": "silver",
+    "de": "silber",
+    "da": "sølv",
+    "no": "sølv",
+    "ko": "은색",
+    "es": "plata",
+    "nl": "zilver",
+    "sv": "silver"
+  },
+  "bronze": {
+    "en": "bronze",
+    "de": "bronze",
+    "da": "bronze",
+    "no": "bronse",
+    "ko": "청동색",
+    "es": "bronce",
+    "nl": "brons",
+    "sv": "brons"
+  }
 }

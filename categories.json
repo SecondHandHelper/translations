@@ -1,782 +1,782 @@
 {
-    "Jacka": {
-        "en": "Jacket",
-        "de": "Jacke",
-        "da": "Jakke",
-        "no": "Jakke",
-        "ko": "자켓",
-        "es": "Chaqueta",
-        "nl": "Jas",
-        "sv": "Jacka"
-    },
-    "Tröja": {
-        "en": "Sweater",
-        "de": "Pullover",
-        "da": "Sweater",
-        "no": "Genser",
-        "ko": "스웨터",
-        "es": "Suéter",
-        "nl": "Sweater",
-        "sv": "Tröja"
-    },
-    "Klänning": {
-        "en": "Dress",
-        "de": "Kleid",
-        "da": "Kjole",
-        "no": "Kjole",
-        "ko": "드레스",
-        "es": "Vestido",
-        "nl": "Jurk",
-        "sv": "Klänning"
-    },
-    "Blus": {
-        "en": "Blouse",
-        "de": "Bluse",
-        "da": "Bluse",
-        "no": "Bluse",
-        "ko": "블라우스",
-        "es": "Blusa",
-        "nl": "Blouse",
-        "sv": "Blus"
-    },
-    "Skjorta": {
-        "en": "Shirt",
-        "de": "Hemd",
-        "da": "Skjorte",
-        "no": "Skjorte",
-        "ko": "셔츠",
-        "es": "Camisa",
-        "nl": "Hemd",
-        "sv": "Skjorta"
-    },
-    "Byxor": {
-        "en": "Trousers",
-        "de": "Hose",
-        "da": "Bukser",
-        "no": "Bukse",
-        "ko": "바지",
-        "es": "Pantalones",
-        "nl": "Broek",
-        "sv": "Byxor"
-    },
-    "Shorts": {
-        "en": "Shorts",
-        "de": "Shorts",
-        "da": "Shorts",
-        "no": "Shorts",
-        "ko": "반바지",
-        "es": "Pantalones cortos",
-        "nl": "Shorts",
-        "sv": "Shorts"
-    },
-    "T-shirt": {
-        "en": "T-shirt",
-        "de": "T-Shirt",
-        "da": "T-shirt",
-        "no": "T-skjorte",
-        "ko": "티셔츠",
-        "es": "Camiseta",
-        "nl": "T-shirt",
-        "sv": "T-shirt"
-    },
-    "Skor": {
-        "en": "Shoes",
-        "de": "Schuhe",
-        "da": "Sko",
-        "no": "Sko",
-        "ko": "신발",
-        "es": "Zapatos",
-        "nl": "Schoenen",
-        "sv": "Skor"
-    },
-    "Väska": {
-        "en": "Bag",
-        "de": "Tasche",
-        "da": "Taske",
-        "no": "Veske",
-        "ko": "가방",
-        "es": "Bolso",
-        "nl": "Tas",
-        "sv": "Väska"
-    },
-    "Kjol": {
-        "en": "Skirt",
-        "de": "Rock",
-        "da": "Nederdel",
-        "no": "Nederdel",
-        "ko": "스커트",
-        "es": "Falda",
-        "nl": "Rok",
-        "sv": "Kjol"
-    },
-    "Halsduk": {
-        "en": "Scarf",
-        "de": "Schal",
-        "da": "Tørklæde/Skjerf",
-        "no": "Sjal",
-        "ko": "목도리",
-        "es": "Bufanda",
-        "nl": "Sjaal",
-        "sv": "Halsduk"
-    },
-    "Jeans": {
-        "en": "Jeans",
-        "de": "Jeans",
-        "da": "Jeans",
-        "no": "Jeans",
-        "ko": "청바지",
-        "es": "Pantalones vaqueros",
-        "nl": "Jeans",
-        "sv": "Jeans"
-    },
-    "Kavaj": {
-        "en": "Jacket",
-        "de": "Jacke",
-        "da": "Jakke",
-        "no": "Blazer",
-        "ko": "재킷",
-        "es": "Americana",
-        "nl": "Jasje",
-        "sv": "Kavaj"
-    },
-    "Hatt": {
-        "en": "Hat",
-        "de": "Hut",
-        "da": "Hat",
-        "no": "Hatt",
-        "ko": "모자",
-        "es": "Sombrero",
-        "nl": "Hoed",
-        "sv": "Hatt"
-    },
-    "Mössa": {
-        "en": "Hat",
-        "de": "Mütze",
-        "da": "Hue",
-        "no": "Lue",
-        "ko": "모자",
-        "es": "Gorro",
-        "nl": "Muts",
-        "sv": "Mössa"
-    },
-    "Hoodie": {
-        "en": "Hoodie",
-        "de": "Hoodie",
-        "da": "Hoodie",
-        "no": "Hoodie",
-        "ko": "후드티",
-        "es": "Sudadera",
-        "nl": "Hoodie",
-        "sv": "Hoodie"
-    },
-    "Dunjacka": {
-        "en": "Puffer jacket",
-        "de": "Steppjacke",
-        "da": "Dunjakke",
-        "no": "Dunjakke",
-        "ko": "패딩점퍼",
-        "es": "Chaqueta acolchada",
-        "nl": "Pufferjack",
-        "sv": "Dunjacka"
-    },
-    "Topp": {
-        "en": "Top",
-        "de": "Oberteil",
-        "da": "Topp",
-        "no": "Topp",
-        "ko": "탑",
-        "es": "Camiseta de tirantes",
-        "nl": "Topje",
-        "sv": "Topp"
-    },
-    "Kappa": {
-        "en": "Coat",
-        "de": "Mantel",
-        "da": "Frakke",
-        "no": "Kåpe",
-        "ko": "코트",
-        "es": "Abrigo",
-        "nl": "Jas",
-        "sv": "Kappa"
-    },
-    "Vantar": {
-        "en": "Gloves",
-        "de": "Handschuhe",
-        "da": "Vanter",
-        "no": "Votter",
-        "ko": "장갑",
-        "es": "Guantes",
-        "nl": "Handschoenen",
-        "sv": "Vantar"
-    },
-    "Örhänge": {
-        "en": "Earring",
-        "de": "Ohrring",
-        "da": "Ørering",
-        "no": "Ørepynt",
-        "ko": "귀걸이",
-        "es": "Pendientes",
-        "nl": "Oorbellen",
-        "sv": "Örhänge"
-    },
-    "Halsband": {
-        "en": "Necklace",
-        "de": "Halskette",
-        "da": "Halskæde",
-        "no": "Halskjede",
-        "ko": "목걸이",
-        "es": "Collar",
-        "nl": "Ketting",
-        "sv": "Halsband"
-    },
-    "Jumpsuit": {
-        "en": "Jumpsuit",
-        "de": "Jumpsuit",
-        "da": "Jumpsuit",
-        "no": "Jumpsuit",
-        "ko": "점프수트",
-        "es": "Mono",
-        "nl": "Jumpsuit",
-        "sv": "Jumpsuit"
-    },
-    "Armband": {
-        "en": "Bracelet",
-        "de": "Armband",
-        "da": "Armbånd",
-        "no": "Armbånd",
-        "ko": "팔찌",
-        "es": "Pulsera",
-        "nl": "Armband",
-        "sv": "Armband"
-    },
-    "Kostym": {
-        "en": "Suit",
-        "de": "Anzug",
-        "da": "Kostume",
-        "no": "Drakt",
-        "ko": "정장",
-        "es": "Traje",
-        "nl": "Pak",
-        "sv": "Kostym"
-    },
-    "Väst": {
-        "en": "Vest",
-        "de": "Weste",
-        "da": "Vest",
-        "no": "Vest",
-        "ko": "조끼",
-        "es": "Chaleco",
-        "nl": "Vest",
-        "sv": "Väst"
-    },
-    "Set": {
-        "en": "Set",
-        "de": "Set",
-        "da": "Sæt",
-        "no": "Set",
-        "ko": "세트",
-        "es": "Conjunto",
-        "nl": "Set",
-        "sv": "Set"
-    },
-    "Solglasögon": {
-        "en": "Sunglasses",
-        "de": "Sonnenbrille",
-        "da": "Solbriller",
-        "no": "Solbriller",
-        "ko": "선글라스",
-        "es": "Gafas de sol",
-        "nl": "Zonnebril",
-        "sv": "Solglasögon"
-    },
-    "Pyjamas": {
-        "en": "Pyjamas",
-        "de": "Schlafanzug",
-        "da": "Nattøy",
-        "no": "Nattøy",
-        "ko": "잠옷",
-        "es": "Pijama",
-        "nl": "PJ's",
-        "sv": "Pyjamas"
-    },
-    "Baddräkt": {
-        "en": "Swimsuit",
-        "de": "Badeanzug",
-        "da": "Badedragt",
-        "no": "Badedrakt",
-        "ko": "수영복",
-        "es": "Bañador",
-        "nl": "Zwempak",
-        "sv": "Baddräkt"
-    },
-    "Maxiklänning": {
-        "en": "Dress",
-        "de": "Maxikleid",
-        "da": "Maksikjole",
-        "no": "Maksikjole",
-        "ko": "맥시 드레스",
-        "es": "Vestido largo",
-        "nl": "Maxi-jurk",
-        "sv": "Maxiklänning"
-    },
-    "Midiklänning": {
-        "en": "Dress",
-        "de": "Midikleid",
-        "da": "Midikjole",
-        "no": "Midikjole",
-        "ko": "미디 드레스",
-        "es": "Vestido midi",
-        "nl": "Midi-jurk",
-        "sv": "Midiklänning"
-    },
-    "Minidress": {
-        "en": "Dress",
-        "de": "Minikleid",
-        "da": "Minikjole",
-        "no": "Minikjole",
-        "ko": "미니 드레스",
-        "es": "Minivestido",
-        "nl": "Mini-jurk",
-        "sv": "Minidress"
-    },
-    "Polotröja": {
-        "en": "Turtleneck",
-        "de": "Rollkragen",
-        "da": "Turtleneck",
-        "no": "Turtleneck",
-        "ko": "터틀넥",
-        "es": "Jersey de cuello alto",
-        "nl": "Turtleneck",
-        "sv": "Polotröja"
-    },
-    "Tunika": {
-        "en": "Tunic",
-        "de": "Tunika",
-        "da": "Tunika",
-        "no": "Tunika",
-        "ko": "투니크",
-        "es": "Blusa larga",
-        "nl": "Tuniek",
-        "sv": "Tunika"
-    },
-    "Kofta": {
-        "en": "Cardigan",
-        "de": "Strickjacke",
-        "da": "Cardigan",
-        "no": "Genser",
-        "ko": "가디건",
-        "es": "Cárdigan",
-        "nl": "Vest",
-        "sv": "Kofta"
-    },
-    "Linne": {
-        "en": "Camisole",
-        "de": "Unterhemd",
-        "da": "Undertrøye",
-        "no": "Undertrøye",
-        "ko": "탱크 탑",
-        "es": "Camiseta sin mangas",
-        "nl": "Hemd",
-        "sv": "Linne"
-    },
-    "Träningströja": {
-        "en": "Jersey top",
-        "de": "Sportoberteil",
-        "da": "Træningsgenser",
-        "no": "Treningsgenser",
-        "ko": "운동복 티셔츠",
-        "es": "Camiseta de deporte",
-        "nl": "Sportshirt",
-        "sv": "Träningströja"
-    },
-    "Bikini": {
-        "en": "Bikini",
-        "de": "Bikini",
-        "da": "Bikini",
-        "no": "Bikini",
-        "ko": "비키니",
-        "es": "Bikini",
-        "nl": "Bikini",
-        "sv": "Bikini"
-    },
-    "Morgonrock": {
-        "en": "Housecoat",
-        "de": "Morgenmantel",
-        "da": "Morgenkåpe",
-        "no": "Morgenkåpe",
-        "ko": "모닝 가운",
-        "es": "Albornoz",
-        "nl": "Ochtendjas",
-        "sv": "Morgonrock"
-    },
-    "Fritidsbyxor": {
-        "en": "Trousers",
-        "de": "Freizeithose",
-        "da": "Fritidsbukser",
-        "no": "Fritidsbukser",
-        "ko": "레저 바지",
-        "es": "Pantalones de ocio",
-        "nl": "Vrijetijdsbroek",
-        "sv": "Fritidsbyxor"
-    },
-    "Fritidsjacka": {
-        "en": "Jacket",
-        "de": "Freizeitjacke",
-        "da": "Fritidsjakke",
-        "no": "Fritidsjakke",
-        "ko": "레저 재킷",
-        "es": "Chaqueta de ocio",
-        "nl": "Vrijetijdsjas",
-        "sv": "Fritidsjacka"
-    },
-    "Bröllopsklänning": {
-        "en": "Wedding dress",
-        "de": "Brautkleid",
-        "da": "Bryllupskjole",
-        "no": "Bryllupskjole",
-        "ko": "웨딩 드레스",
-        "es": "Vestido de novia",
-        "nl": "Bruidsjurk",
-        "sv": "Bröllopsklänning"
-    },
-    "Tärnklänning": {
-        "en": "Bridesmaid dress",
-        "de": "Brautjungfernkleid",
-        "da": "Bryllupsgjestekjole",
-        "no": "Bryllupsfølgekjole",
-        "ko": "신부 들러리 드레스",
-        "es": "Vestido de dama de honor",
-        "nl": "Bruiloftsjurk",
-        "sv": "Tärnklänning"
-    },
-    "Ballerinaskor": {
-        "en": "Ballet flats",
-        "de": "Ballerinas",
-        "da": "Ballerinaer",
-        "no": "Ballerinaer",
-        "ko": "발레 플랫",
-        "es": "Bailarinas",
-        "nl": "Ballerina's",
-        "sv": "Ballerinaskor"
-    },
-    "Sneakers": {
-        "en": "Sneakers",
-        "de": "Sneakers",
-        "da": "Sneakers",
-        "no": "Sneakers",
-        "ko": "운동화",
-        "es": "Zapatillas",
-        "nl": "Sneakers",
-        "sv": "Sneakers"
-    },
-    "Sandaler": {
-        "en": "Sandals",
-        "de": "Sandalen",
-        "da": "Sandaler",
-        "no": "Sandaler",
-        "ko": "샌들",
-        "es": "Sandalias",
-        "nl": "Sandalen",
-        "sv": "Sandaler"
-    },
-    "Klackar": {
-        "en": "Heels",
-        "de": "High Heels",
-        "da": "Stiletter",
-        "no": "Hæler",
-        "ko": "하이 힐",
-        "es": "Zapatos de tacón",
-        "nl": "Hakken",
-        "sv": "Klackar"
-    },
-    "Boots": {
-        "en": "Boots",
-        "de": "Stiefel",
-        "da": "Støvler",
-        "no": "Støvler",
-        "ko": "부츠",
-        "es": "Botas",
-        "nl": "Laarzen",
-        "sv": "Kängor"
-    },
-    "Kängor": {
-        "en": "Boots",
-        "de": "Stiefel",
-        "da": "Støvler",
-        "no": "Støvler",
-        "ko": "부츠",
-        "es": "Botas",
-        "nl": "Laarzen",
-        "sv": "Kängor"
-    },
-    "Keps": {
-        "en": "Cap",
-        "de": "Kappe",
-        "da": "Kasket",
-        "no": "Keps",
-        "ko": "모자",
-        "es": "Gorra",
-        "nl": "Pet",
-        "sv": "Keps"
-    },
-    "Krage": {
-        "en": "Collar",
-        "de": "Kragen",
-        "da": "Krave",
-        "no": "Krage",
-        "ko": "칼라",
-        "es": "Collar",
-        "nl": "Kraag",
-        "sv": "Krage"
-    },
-    "Sjal": {
-        "en": "Scarf",
-        "de": "Schal",
-        "da": "Tørklæde/Skjerf",
-        "no": "Sjal",
-        "ko": "목도리",
-        "es": "Bufanda",
-        "nl": "Sjaal",
-        "sv": "Sjal"
-    },
-    "Bälte": {
-        "en": "Belt",
-        "de": "Gürtel",
-        "da": "Bælte",
-        "no": "Belte",
-        "ko": "벨트",
-        "es": "Cinturón",
-        "nl": "Riem",
-        "sv": "Bälte"
-    },
-    "Plånbok": {
-        "en": "Wallet",
-        "de": "Brieftasche",
-        "da": "Pengepung",
-        "no": "Lommebok",
-        "ko": "지갑",
-        "es": "Cartera",
-        "nl": "Portemonnee",
-        "sv": "Plånbok"
-    },
-    "Ring": {
-        "en": "Ring",
-        "de": "Ring",
-        "da": "Ring",
-        "no": "Ring",
-        "ko": "반지",
-        "es": "Anillo",
-        "nl": "Ring",
-        "sv": "Ring"
-    },
-    "Rock": {
-        "en": "Coat",
-        "de": "Mantel",
-        "da": "Frakke",
-        "no": "Kåpe",
-        "ko": "코트",
-        "es": "Abrigo",
-        "nl": "Jas",
-        "sv": "Rock"
-    },
-    "Ryggsäck": {
-        "en": "Backpack",
-        "de": "Rucksack",
-        "da": "Rygsæk",
-        "no": "Ryggsekk",
-        "ko": "배낭",
-        "es": "Mochila",
-        "nl": "Rugzak",
-        "sv": "Ryggsäck"
-    },
-    "Necessär": {
-        "en": "Toilet bag",
-        "de": "Kulturtasche",
-        "da": "Taske til toiletgrej",
-        "no": "Toalettmappe",
-        "ko": "화장품 가방",
-        "es": "Neceser",
-        "nl": "Toilettas",
-        "sv": "Necessär"
-    },
-    "Kuvertväska": {
-        "en": "Clutch bag",
-        "de": "Clutch",
-        "da": "Kuverttaske",
-        "no": "Clutch",
-        "ko": "클러치 가방",
-        "es": "Bolso de mano",
-        "nl": "Clutch",
-        "sv": "Kuvertväska"
-    },
-    "Träningsväska": {
-        "en": "Training bag",
-        "de": "Sporttasche",
-        "da": "Træningstaske",
-        "no": "Treningsbag",
-        "ko": "운동 가방",
-        "es": "Bolsa de deporte",
-        "nl": "Sporttas",
-        "sv": "Träningsväska"
-    },
-    "Resväska": {
-        "en": "Travel bag",
-        "de": "Reisetasche",
-        "da": "Rejsetaske",
-        "no": "Reiseveske",
-        "ko": "여행 가방",
-        "es": "Maleta de viaje",
-        "nl": "Reistas",
-        "sv": "Resväska"
-    },
-    "Datorväska": {
-        "en": "Computer case",
-        "de": "Laptoptasche",
-        "da": "Computer taske",
-        "no": "Laptopveske",
-        "ko": "노트북 가방",
-        "es": "Funda de ordenador",
-        "nl": "Laptophoes",
-        "sv": "Datorväska"
-    },
-    "Axelremsväska": {
-        "en": "Shoulder bag",
-        "de": "Schultertasche",
-        "da": "Skuldertaske",
-        "no": "Skulderveske",
-        "ko": "어깨 가방",
-        "es": "Bolso de hombro",
-        "nl": "Schoudertas",
-        "sv": "Axelremsväska"
-    },
-    "Handväska": {
-        "en": "Handbag",
-        "de": "Handtasche",
-        "da": "Håndtaske",
-        "no": "Håndveske",
-        "ko": "핸드백",
-        "es": "Bolso de mano",
-        "nl": "Handtas",
-        "sv": "Handväska"
-    },
-    "Poncho": {
-        "en": "Poncho",
-        "de": "Poncho",
-        "da": "Poncho",
-        "no": "Poncho",
-        "ko": "폰초",
-        "es": "Poncho",
-        "nl": "Poncho",
-        "sv": "Poncho"
-    },
-    "Sweatshirt": {
-        "en": "Sweatshirt",
-        "de": "Sweatshirt",
-        "da": "Sweatshirt",
-        "no": "Sweatshirt",
-        "ko": "스웨트셔츠",
-        "es": "Sudadera",
-        "nl": "Sweatshirt",
-        "sv": "Sweatshirt"
-    },
-    "Piké": {
-        "en": "Shirt",
-        "de": "Polo-Shirt",
-        "da": "Polo",
-        "no": "Pique",
-        "ko": "폴로 셔츠",
-        "es": "Camisa polo",
-        "nl": "Polo",
-        "sv": "Piké"
-    },
-    "Träningsbyxor": {
-        "en": "Trousers",
-        "de": "Sportshose",
-        "da": "Træningsbukser",
-        "no": "Treningsbukser",
-        "ko": "운동복 바지",
-        "es": "Pantalones de chándal",
-        "nl": "Sportbroek",
-        "sv": "Träningsbyxor"
-    },
-    "Slips": {
-        "en": "Tie",
-        "de": "Krawatte",
-        "da": "Slips",
-        "no": "Slips",
-        "ko": "넥타이",
-        "es": "Corbata",
-        "nl": "Stropdas",
-        "sv": "Slips"
-    },
-    "Trenchcoat": {
-        "en": "Trenchcoat",
-        "de": "Trenchcoat",
-        "da": "Trenchcoat",
-        "no": "Trenchcoat",
-        "ko": "트렌치 코트",
-        "es": "Gabardina",
-        "nl": "Trenchcoat",
-        "sv": "Trenchcoat"
-    },
-    "Skinnjacka": {
-        "en": "Leather jacket",
-        "de": "Lederjacke",
-        "da": "Læderjakke",
-        "no": "Lærjakke",
-        "ko": "가죽 자켓",
-        "es": "Cazadora de cuero",
-        "nl": "Leren jas",
-        "sv": "Skinnjacka"
-    },
-    "Handduk": {
-        "en": "Towel",
-        "de": "Handtuch",
-        "da": "Håndklæde",
-        "no": "Håndkle",
-        "ko": "수건",
-        "es": "Toalla",
-        "nl": "Handdoek",
-        "sv": "Handduk"
-    },
-    "Bodysuit": {
-        "en": "Bodysuit",
-        "de": "Body",
-        "da": "Bodystocking",
-        "no": "Bodysuit",
-        "ko": "바디 수트",
-        "es": "Body",
-        "nl": "Body",
-        "sv": "Bodysuit"
-    },
-    "Tights": {
-        "en": "Trousers",
-        "de": "Strumpfhose",
-        "da": "Strømpebukser",
-        "no": "Strømpebukser",
-        "ko": "타이츠",
-        "es": "Mallas",
-        "nl": "Panty",
-        "sv": "Tights"
-    },
-    "Klocka": {
-        "en": "Watch",
-        "de": "Uhr",
-        "da": "Ur",
-        "no": "Ur",
-        "ko": "시계",
-        "es": "Reloj",
-        "nl": "Horloge",
-        "sv": "Klocka"
-    },
-    "Loafers": {
-        "en": "Loafers",
-        "de": "Slipper",
-        "da": "Loafers",
-        "no": "Loafers",
-        "ko": "로퍼",
-        "es": "Mocasín",
-        "nl": "Mocasín",
-        "sv": "Loafers"
-    }
+  "Jacka": {
+    "en": "Jacket",
+    "de": "Jacke",
+    "da": "Jakke",
+    "no": "Jakke",
+    "ko": "자켓",
+    "es": "Chaqueta",
+    "nl": "Jas",
+    "sv": "Jacka"
+  },
+  "Tröja": {
+    "en": "Sweater",
+    "de": "Pullover",
+    "da": "Sweater",
+    "no": "Genser",
+    "ko": "스웨터",
+    "es": "Suéter",
+    "nl": "Sweater",
+    "sv": "Tröja"
+  },
+  "Klänning": {
+    "en": "Dress",
+    "de": "Kleid",
+    "da": "Kjole",
+    "no": "Kjole",
+    "ko": "드레스",
+    "es": "Vestido",
+    "nl": "Jurk",
+    "sv": "Klänning"
+  },
+  "Blus": {
+    "en": "Blouse",
+    "de": "Bluse",
+    "da": "Bluse",
+    "no": "Bluse",
+    "ko": "블라우스",
+    "es": "Blusa",
+    "nl": "Blouse",
+    "sv": "Blus"
+  },
+  "Skjorta": {
+    "en": "Shirt",
+    "de": "Hemd",
+    "da": "Skjorte",
+    "no": "Skjorte",
+    "ko": "셔츠",
+    "es": "Camisa",
+    "nl": "Hemd",
+    "sv": "Skjorta"
+  },
+  "Byxor": {
+    "en": "Trousers",
+    "de": "Hose",
+    "da": "Bukser",
+    "no": "Bukse",
+    "ko": "바지",
+    "es": "Pantalones",
+    "nl": "Broek",
+    "sv": "Byxor"
+  },
+  "Shorts": {
+    "en": "Shorts",
+    "de": "Shorts",
+    "da": "Shorts",
+    "no": "Shorts",
+    "ko": "반바지",
+    "es": "Pantalones cortos",
+    "nl": "Shorts",
+    "sv": "Shorts"
+  },
+  "T-shirt": {
+    "en": "T-shirt",
+    "de": "T-Shirt",
+    "da": "T-shirt",
+    "no": "T-skjorte",
+    "ko": "티셔츠",
+    "es": "Camiseta",
+    "nl": "T-shirt",
+    "sv": "T-shirt"
+  },
+  "Skor": {
+    "en": "Shoes",
+    "de": "Schuhe",
+    "da": "Sko",
+    "no": "Sko",
+    "ko": "신발",
+    "es": "Zapatos",
+    "nl": "Schoenen",
+    "sv": "Skor"
+  },
+  "Väska": {
+    "en": "Bag",
+    "de": "Tasche",
+    "da": "Taske",
+    "no": "Veske",
+    "ko": "가방",
+    "es": "Bolso",
+    "nl": "Tas",
+    "sv": "Väska"
+  },
+  "Kjol": {
+    "en": "Skirt",
+    "de": "Rock",
+    "da": "Nederdel",
+    "no": "Nederdel",
+    "ko": "스커트",
+    "es": "Falda",
+    "nl": "Rok",
+    "sv": "Kjol"
+  },
+  "Halsduk": {
+    "en": "Scarf",
+    "de": "Schal",
+    "da": "Tørklæde/Skjerf",
+    "no": "Sjal",
+    "ko": "목도리",
+    "es": "Bufanda",
+    "nl": "Sjaal",
+    "sv": "Halsduk"
+  },
+  "Jeans": {
+    "en": "Jeans",
+    "de": "Jeans",
+    "da": "Jeans",
+    "no": "Jeans",
+    "ko": "청바지",
+    "es": "Pantalones vaqueros",
+    "nl": "Jeans",
+    "sv": "Jeans"
+  },
+  "Kavaj": {
+    "en": "Jacket",
+    "de": "Jacke",
+    "da": "Jakke",
+    "no": "Blazer",
+    "ko": "재킷",
+    "es": "Americana",
+    "nl": "Jasje",
+    "sv": "Kavaj"
+  },
+  "Hatt": {
+    "en": "Hat",
+    "de": "Hut",
+    "da": "Hat",
+    "no": "Hatt",
+    "ko": "모자",
+    "es": "Sombrero",
+    "nl": "Hoed",
+    "sv": "Hatt"
+  },
+  "Mössa": {
+    "en": "Hat",
+    "de": "Mütze",
+    "da": "Hue",
+    "no": "Lue",
+    "ko": "모자",
+    "es": "Gorro",
+    "nl": "Muts",
+    "sv": "Mössa"
+  },
+  "Hoodie": {
+    "en": "Hoodie",
+    "de": "Hoodie",
+    "da": "Hoodie",
+    "no": "Hoodie",
+    "ko": "후드티",
+    "es": "Sudadera",
+    "nl": "Hoodie",
+    "sv": "Hoodie"
+  },
+  "Dunjacka": {
+    "en": "Puffer jacket",
+    "de": "Steppjacke",
+    "da": "Dunjakke",
+    "no": "Dunjakke",
+    "ko": "패딩점퍼",
+    "es": "Chaqueta acolchada",
+    "nl": "Pufferjack",
+    "sv": "Dunjacka"
+  },
+  "Topp": {
+    "en": "Top",
+    "de": "Oberteil",
+    "da": "Topp",
+    "no": "Topp",
+    "ko": "탑",
+    "es": "Camiseta de tirantes",
+    "nl": "Topje",
+    "sv": "Topp"
+  },
+  "Kappa": {
+    "en": "Coat",
+    "de": "Mantel",
+    "da": "Frakke",
+    "no": "Kåpe",
+    "ko": "코트",
+    "es": "Abrigo",
+    "nl": "Jas",
+    "sv": "Kappa"
+  },
+  "Vantar": {
+    "en": "Gloves",
+    "de": "Handschuhe",
+    "da": "Vanter",
+    "no": "Votter",
+    "ko": "장갑",
+    "es": "Guantes",
+    "nl": "Handschoenen",
+    "sv": "Vantar"
+  },
+  "Örhänge": {
+    "en": "Earring",
+    "de": "Ohrring",
+    "da": "Ørering",
+    "no": "Ørepynt",
+    "ko": "귀걸이",
+    "es": "Pendientes",
+    "nl": "Oorbellen",
+    "sv": "Örhänge"
+  },
+  "Halsband": {
+    "en": "Necklace",
+    "de": "Halskette",
+    "da": "Halskæde",
+    "no": "Halskjede",
+    "ko": "목걸이",
+    "es": "Collar",
+    "nl": "Ketting",
+    "sv": "Halsband"
+  },
+  "Jumpsuit": {
+    "en": "Jumpsuit",
+    "de": "Jumpsuit",
+    "da": "Jumpsuit",
+    "no": "Jumpsuit",
+    "ko": "점프수트",
+    "es": "Mono",
+    "nl": "Jumpsuit",
+    "sv": "Jumpsuit"
+  },
+  "Armband": {
+    "en": "Bracelet",
+    "de": "Armband",
+    "da": "Armbånd",
+    "no": "Armbånd",
+    "ko": "팔찌",
+    "es": "Pulsera",
+    "nl": "Armband",
+    "sv": "Armband"
+  },
+  "Kostym": {
+    "en": "Suit",
+    "de": "Anzug",
+    "da": "Kostume",
+    "no": "Drakt",
+    "ko": "정장",
+    "es": "Traje",
+    "nl": "Pak",
+    "sv": "Kostym"
+  },
+  "Väst": {
+    "en": "Vest",
+    "de": "Weste",
+    "da": "Vest",
+    "no": "Vest",
+    "ko": "조끼",
+    "es": "Chaleco",
+    "nl": "Vest",
+    "sv": "Väst"
+  },
+  "Set": {
+    "en": "Set",
+    "de": "Set",
+    "da": "Sæt",
+    "no": "Set",
+    "ko": "세트",
+    "es": "Conjunto",
+    "nl": "Set",
+    "sv": "Set"
+  },
+  "Solglasögon": {
+    "en": "Sunglasses",
+    "de": "Sonnenbrille",
+    "da": "Solbriller",
+    "no": "Solbriller",
+    "ko": "선글라스",
+    "es": "Gafas de sol",
+    "nl": "Zonnebril",
+    "sv": "Solglasögon"
+  },
+  "Pyjamas": {
+    "en": "Pyjamas",
+    "de": "Schlafanzug",
+    "da": "Nattøy",
+    "no": "Nattøy",
+    "ko": "잠옷",
+    "es": "Pijama",
+    "nl": "PJ's",
+    "sv": "Pyjamas"
+  },
+  "Baddräkt": {
+    "en": "Swimsuit",
+    "de": "Badeanzug",
+    "da": "Badedragt",
+    "no": "Badedrakt",
+    "ko": "수영복",
+    "es": "Bañador",
+    "nl": "Zwempak",
+    "sv": "Baddräkt"
+  },
+  "Maxiklänning": {
+    "en": "Dress",
+    "de": "Maxikleid",
+    "da": "Maksikjole",
+    "no": "Maksikjole",
+    "ko": "맥시 드레스",
+    "es": "Vestido largo",
+    "nl": "Maxi-jurk",
+    "sv": "Maxiklänning"
+  },
+  "Midiklänning": {
+    "en": "Dress",
+    "de": "Midikleid",
+    "da": "Midikjole",
+    "no": "Midikjole",
+    "ko": "미디 드레스",
+    "es": "Vestido midi",
+    "nl": "Midi-jurk",
+    "sv": "Midiklänning"
+  },
+  "Minidress": {
+    "en": "Dress",
+    "de": "Minikleid",
+    "da": "Minikjole",
+    "no": "Minikjole",
+    "ko": "미니 드레스",
+    "es": "Minivestido",
+    "nl": "Mini-jurk",
+    "sv": "Minidress"
+  },
+  "Polotröja": {
+    "en": "Turtleneck",
+    "de": "Rollkragen",
+    "da": "Turtleneck",
+    "no": "Turtleneck",
+    "ko": "터틀넥",
+    "es": "Jersey de cuello alto",
+    "nl": "Turtleneck",
+    "sv": "Polotröja"
+  },
+  "Tunika": {
+    "en": "Tunic",
+    "de": "Tunika",
+    "da": "Tunika",
+    "no": "Tunika",
+    "ko": "투니크",
+    "es": "Blusa larga",
+    "nl": "Tuniek",
+    "sv": "Tunika"
+  },
+  "Kofta": {
+    "en": "Cardigan",
+    "de": "Strickjacke",
+    "da": "Cardigan",
+    "no": "Genser",
+    "ko": "가디건",
+    "es": "Cárdigan",
+    "nl": "Vest",
+    "sv": "Kofta"
+  },
+  "Linne": {
+    "en": "Camisole",
+    "de": "Unterhemd",
+    "da": "Undertrøye",
+    "no": "Undertrøye",
+    "ko": "탱크 탑",
+    "es": "Camiseta sin mangas",
+    "nl": "Hemd",
+    "sv": "Linne"
+  },
+  "Träningströja": {
+    "en": "Jersey top",
+    "de": "Sportoberteil",
+    "da": "Træningsgenser",
+    "no": "Treningsgenser",
+    "ko": "운동복 티셔츠",
+    "es": "Camiseta de deporte",
+    "nl": "Sportshirt",
+    "sv": "Träningströja"
+  },
+  "Bikini": {
+    "en": "Bikini",
+    "de": "Bikini",
+    "da": "Bikini",
+    "no": "Bikini",
+    "ko": "비키니",
+    "es": "Bikini",
+    "nl": "Bikini",
+    "sv": "Bikini"
+  },
+  "Morgonrock": {
+    "en": "Housecoat",
+    "de": "Morgenmantel",
+    "da": "Morgenkåpe",
+    "no": "Morgenkåpe",
+    "ko": "모닝 가운",
+    "es": "Albornoz",
+    "nl": "Ochtendjas",
+    "sv": "Morgonrock"
+  },
+  "Fritidsbyxor": {
+    "en": "Trousers",
+    "de": "Freizeithose",
+    "da": "Fritidsbukser",
+    "no": "Fritidsbukser",
+    "ko": "레저 바지",
+    "es": "Pantalones de ocio",
+    "nl": "Vrijetijdsbroek",
+    "sv": "Fritidsbyxor"
+  },
+  "Fritidsjacka": {
+    "en": "Jacket",
+    "de": "Freizeitjacke",
+    "da": "Fritidsjakke",
+    "no": "Fritidsjakke",
+    "ko": "레저 재킷",
+    "es": "Chaqueta de ocio",
+    "nl": "Vrijetijdsjas",
+    "sv": "Fritidsjacka"
+  },
+  "Bröllopsklänning": {
+    "en": "Wedding dress",
+    "de": "Brautkleid",
+    "da": "Bryllupskjole",
+    "no": "Bryllupskjole",
+    "ko": "웨딩 드레스",
+    "es": "Vestido de novia",
+    "nl": "Bruidsjurk",
+    "sv": "Bröllopsklänning"
+  },
+  "Tärnklänning": {
+    "en": "Bridesmaid dress",
+    "de": "Brautjungfernkleid",
+    "da": "Bryllupsgjestekjole",
+    "no": "Bryllupsfølgekjole",
+    "ko": "신부 들러리 드레스",
+    "es": "Vestido de dama de honor",
+    "nl": "Bruiloftsjurk",
+    "sv": "Tärnklänning"
+  },
+  "Ballerinaskor": {
+    "en": "Ballet flats",
+    "de": "Ballerinas",
+    "da": "Ballerinaer",
+    "no": "Ballerinaer",
+    "ko": "발레 플랫",
+    "es": "Bailarinas",
+    "nl": "Ballerina's",
+    "sv": "Ballerinaskor"
+  },
+  "Sneakers": {
+    "en": "Sneakers",
+    "de": "Sneakers",
+    "da": "Sneakers",
+    "no": "Sneakers",
+    "ko": "운동화",
+    "es": "Zapatillas",
+    "nl": "Sneakers",
+    "sv": "Sneakers"
+  },
+  "Sandaler": {
+    "en": "Sandals",
+    "de": "Sandalen",
+    "da": "Sandaler",
+    "no": "Sandaler",
+    "ko": "샌들",
+    "es": "Sandalias",
+    "nl": "Sandalen",
+    "sv": "Sandaler"
+  },
+  "Klackar": {
+    "en": "Heels",
+    "de": "High Heels",
+    "da": "Stiletter",
+    "no": "Hæler",
+    "ko": "하이 힐",
+    "es": "Zapatos de tacón",
+    "nl": "Hakken",
+    "sv": "Klackar"
+  },
+  "Boots": {
+    "en": "Boots",
+    "de": "Stiefel",
+    "da": "Støvler",
+    "no": "Støvler",
+    "ko": "부츠",
+    "es": "Botas",
+    "nl": "Laarzen",
+    "sv": "Kängor"
+  },
+  "Kängor": {
+    "en": "Boots",
+    "de": "Stiefel",
+    "da": "Støvler",
+    "no": "Støvler",
+    "ko": "부츠",
+    "es": "Botas",
+    "nl": "Laarzen",
+    "sv": "Kängor"
+  },
+  "Keps": {
+    "en": "Cap",
+    "de": "Kappe",
+    "da": "Kasket",
+    "no": "Keps",
+    "ko": "모자",
+    "es": "Gorra",
+    "nl": "Pet",
+    "sv": "Keps"
+  },
+  "Krage": {
+    "en": "Collar",
+    "de": "Kragen",
+    "da": "Krave",
+    "no": "Krage",
+    "ko": "칼라",
+    "es": "Collar",
+    "nl": "Kraag",
+    "sv": "Krage"
+  },
+  "Sjal": {
+    "en": "Scarf",
+    "de": "Schal",
+    "da": "Tørklæde/Skjerf",
+    "no": "Sjal",
+    "ko": "목도리",
+    "es": "Bufanda",
+    "nl": "Sjaal",
+    "sv": "Sjal"
+  },
+  "Bälte": {
+    "en": "Belt",
+    "de": "Gürtel",
+    "da": "Bælte",
+    "no": "Belte",
+    "ko": "벨트",
+    "es": "Cinturón",
+    "nl": "Riem",
+    "sv": "Bälte"
+  },
+  "Plånbok": {
+    "en": "Wallet",
+    "de": "Brieftasche",
+    "da": "Pengepung",
+    "no": "Lommebok",
+    "ko": "지갑",
+    "es": "Cartera",
+    "nl": "Portemonnee",
+    "sv": "Plånbok"
+  },
+  "Ring": {
+    "en": "Ring",
+    "de": "Ring",
+    "da": "Ring",
+    "no": "Ring",
+    "ko": "반지",
+    "es": "Anillo",
+    "nl": "Ring",
+    "sv": "Ring"
+  },
+  "Rock": {
+    "en": "Coat",
+    "de": "Mantel",
+    "da": "Frakke",
+    "no": "Kåpe",
+    "ko": "코트",
+    "es": "Abrigo",
+    "nl": "Jas",
+    "sv": "Rock"
+  },
+  "Ryggsäck": {
+    "en": "Backpack",
+    "de": "Rucksack",
+    "da": "Rygsæk",
+    "no": "Ryggsekk",
+    "ko": "배낭",
+    "es": "Mochila",
+    "nl": "Rugzak",
+    "sv": "Ryggsäck"
+  },
+  "Necessär": {
+    "en": "Toilet bag",
+    "de": "Kulturtasche",
+    "da": "Taske til toiletgrej",
+    "no": "Toalettmappe",
+    "ko": "화장품 가방",
+    "es": "Neceser",
+    "nl": "Toilettas",
+    "sv": "Necessär"
+  },
+  "Kuvertväska": {
+    "en": "Clutch bag",
+    "de": "Clutch",
+    "da": "Kuverttaske",
+    "no": "Clutch",
+    "ko": "클러치 가방",
+    "es": "Bolso de mano",
+    "nl": "Clutch",
+    "sv": "Kuvertväska"
+  },
+  "Träningsväska": {
+    "en": "Training bag",
+    "de": "Sporttasche",
+    "da": "Træningstaske",
+    "no": "Treningsbag",
+    "ko": "운동 가방",
+    "es": "Bolsa de deporte",
+    "nl": "Sporttas",
+    "sv": "Träningsväska"
+  },
+  "Resväska": {
+    "en": "Travel bag",
+    "de": "Reisetasche",
+    "da": "Rejsetaske",
+    "no": "Reiseveske",
+    "ko": "여행 가방",
+    "es": "Maleta de viaje",
+    "nl": "Reistas",
+    "sv": "Resväska"
+  },
+  "Datorväska": {
+    "en": "Computer case",
+    "de": "Laptoptasche",
+    "da": "Computer taske",
+    "no": "Laptopveske",
+    "ko": "노트북 가방",
+    "es": "Funda de ordenador",
+    "nl": "Laptophoes",
+    "sv": "Datorväska"
+  },
+  "Axelremsväska": {
+    "en": "Shoulder bag",
+    "de": "Schultertasche",
+    "da": "Skuldertaske",
+    "no": "Skulderveske",
+    "ko": "어깨 가방",
+    "es": "Bolso de hombro",
+    "nl": "Schoudertas",
+    "sv": "Axelremsväska"
+  },
+  "Handväska": {
+    "en": "Handbag",
+    "de": "Handtasche",
+    "da": "Håndtaske",
+    "no": "Håndveske",
+    "ko": "핸드백",
+    "es": "Bolso de mano",
+    "nl": "Handtas",
+    "sv": "Handväska"
+  },
+  "Poncho": {
+    "en": "Poncho",
+    "de": "Poncho",
+    "da": "Poncho",
+    "no": "Poncho",
+    "ko": "폰초",
+    "es": "Poncho",
+    "nl": "Poncho",
+    "sv": "Poncho"
+  },
+  "Sweatshirt": {
+    "en": "Sweatshirt",
+    "de": "Sweatshirt",
+    "da": "Sweatshirt",
+    "no": "Sweatshirt",
+    "ko": "스웨트셔츠",
+    "es": "Sudadera",
+    "nl": "Sweatshirt",
+    "sv": "Sweatshirt"
+  },
+  "Piké": {
+    "en": "Shirt",
+    "de": "Polo-Shirt",
+    "da": "Polo",
+    "no": "Pique",
+    "ko": "폴로 셔츠",
+    "es": "Camisa polo",
+    "nl": "Polo",
+    "sv": "Piké"
+  },
+  "Träningsbyxor": {
+    "en": "Trousers",
+    "de": "Sportshose",
+    "da": "Træningsbukser",
+    "no": "Treningsbukser",
+    "ko": "운동복 바지",
+    "es": "Pantalones de chándal",
+    "nl": "Sportbroek",
+    "sv": "Träningsbyxor"
+  },
+  "Slips": {
+    "en": "Tie",
+    "de": "Krawatte",
+    "da": "Slips",
+    "no": "Slips",
+    "ko": "넥타이",
+    "es": "Corbata",
+    "nl": "Stropdas",
+    "sv": "Slips"
+  },
+  "Trenchcoat": {
+    "en": "Trenchcoat",
+    "de": "Trenchcoat",
+    "da": "Trenchcoat",
+    "no": "Trenchcoat",
+    "ko": "트렌치 코트",
+    "es": "Gabardina",
+    "nl": "Trenchcoat",
+    "sv": "Trenchcoat"
+  },
+  "Skinnjacka": {
+    "en": "Leather jacket",
+    "de": "Lederjacke",
+    "da": "Læderjakke",
+    "no": "Lærjakke",
+    "ko": "가죽 자켓",
+    "es": "Cazadora de cuero",
+    "nl": "Leren jas",
+    "sv": "Skinnjacka"
+  },
+  "Handduk": {
+    "en": "Towel",
+    "de": "Handtuch",
+    "da": "Håndklæde",
+    "no": "Håndkle",
+    "ko": "수건",
+    "es": "Toalla",
+    "nl": "Handdoek",
+    "sv": "Handduk"
+  },
+  "Bodysuit": {
+    "en": "Bodysuit",
+    "de": "Body",
+    "da": "Bodystocking",
+    "no": "Bodysuit",
+    "ko": "바디 수트",
+    "es": "Body",
+    "nl": "Body",
+    "sv": "Bodysuit"
+  },
+  "Tights": {
+    "en": "Trousers",
+    "de": "Strumpfhose",
+    "da": "Strømpebukser",
+    "no": "Strømpebukser",
+    "ko": "타이츠",
+    "es": "Mallas",
+    "nl": "Panty",
+    "sv": "Tights"
+  },
+  "Klocka": {
+    "en": "Watch",
+    "de": "Uhr",
+    "da": "Ur",
+    "no": "Ur",
+    "ko": "시계",
+    "es": "Reloj",
+    "nl": "Horloge",
+    "sv": "Klocka"
+  },
+  "Loafers": {
+    "en": "Loafers",
+    "de": "Slipper",
+    "da": "Loafers",
+    "no": "Loafers",
+    "ko": "로퍼",
+    "es": "Mocasín",
+    "nl": "Mocasín",
+    "sv": "Loafers"
+  }
 }

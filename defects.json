@@ -1,62 +1,62 @@
 {
-    "Hål": {
-        "en": "Hole",
-        "de": "Loch",
-        "da": "Hul",
-        "no": "Hull",
-        "ko": "구멍",
-        "es": "Agujero",
-        "nl": "Gat",
-        "sv": "Hål"
-    },
-    "Fläck": {
-        "en": "Stain",
-        "de": "Fleck",
-        "da": "Plet",
-        "no": "Flekk",
-        "ko": "얼룩",
-        "es": "Mancha",
-        "nl": "Vlek",
-        "sv": "Fläck"
-    },
-    "Tappad passform": {
-        "en": "Lost fit",
-        "de": "Passform verloren",
-        "da": "Mistet pasform",
-        "no": "Mistet passform",
-        "ko": "사이즈 불일치",
-        "es": "Ajuste perdido",
-        "nl": "Verkeerde pasvorm",
-        "sv": "Tappad passform"
-    },
-    "Nopprig": {
-        "en": "Pilling",
-        "de": "Pilling",
-        "da": "Fnulleret",
-        "no": "Nupper",
-        "ko": "보풀",
-        "es": "Bolitas",
-        "nl": "Pillen",
-        "sv": "Nopprig"
-    },
-    "Trådsläpp": {
-        "en": "Loose thread",
-        "de": "Fadenlauf",
-        "da": "Løs tråd",
-        "no": "Løs tråd",
-        "ko": "실이 풀림",
-        "es": "Hilo suelto",
-        "nl": "Losse draad",
-        "sv": "Trådsläpp"
-    },
-    "Färgändring": {
-        "en": "Change in color",
-        "de": "Farbänderung",
-        "da": "Farveændring",
-        "no": "Fargeendring",
-        "ko": "색 변화",
-        "es": "Cambio de color",
-        "nl": "Kleurverandering",
-        "sv": "Färgändring"
-    }
+  "Hål": {
+    "en": "Hole",
+    "de": "Loch",
+    "da": "Hul",
+    "no": "Hull",
+    "ko": "구멍",
+    "es": "Agujero",
+    "nl": "Gat",
+    "sv": "Hål"
+  },
+  "Fläck": {
+    "en": "Stain",
+    "de": "Fleck",
+    "da": "Plet",
+    "no": "Flekk",
+    "ko": "얼룩",
+    "es": "Mancha",
+    "nl": "Vlek",
+    "sv": "Fläck"
+  },
+  "Tappad passform": {
+    "en": "Lost fit",
+    "de": "Passform verloren",
+    "da": "Mistet pasform",
+    "no": "Mistet passform",
+    "ko": "사이즈 불일치",
+    "es": "Ajuste perdido",
+    "nl": "Verkeerde pasvorm",
+    "sv": "Tappad passform"
+  },
+  "Nopprig": {
+    "en": "Pilling",
+    "de": "Pilling",
+    "da": "Fnulleret",
+    "no": "Nupper",
+    "ko": "보풀",
+    "es": "Bolitas",
+    "nl": "Pillen",
+    "sv": "Nopprig"
+  },
+  "Trådsläpp": {
+    "en": "Loose thread",
+    "de": "Fadenlauf",
+    "da": "Løs tråd",
+    "no": "Løs tråd",
+    "ko": "실이 풀림",
+    "es": "Hilo suelto",
+    "nl": "Losse draad",
+    "sv": "Trådsläpp"
+  },
+  "Färgändring": {
+    "en": "Change in color",
+    "de": "Farbänderung",
+    "da": "Farveændring",
+    "no": "Fargeendring",
+    "ko": "색 변화",
+    "es": "Cambio de color",
+    "nl": "Kleurverandering",
+    "sv": "Färgändring"
+  }
 }
