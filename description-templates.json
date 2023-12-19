@@ -1,13 +1,13 @@
 {
   "line1": {
-    "sv": "{{category}} från {{cleanedBrand}}, modell {{cleanedModel}}.",
-    "en": "{{category}} from {{cleanedBrand}}, model {{cleanedModel}}.",
-    "de": "{{category}} von {{cleanedBrand}}, Modell {{cleanedModel}}.",
-    "da": "{{category}} fra {{cleanedBrand}}, model {{cleanedModel}}.",
-    "no": "{{category}} fra {{cleanedBrand}}, modell {{cleanedModel}}.",
-    "ko": "{{category}} {{cleanedBrand}}, modelo {{cleanedModel}}.",
-    "es": "{{category}} van {{cleanedBrand}}, model {{cleanedModel}}.",
-    "nl": "{{category}} van {{cleanedBrand}}, model {{cleanedModel}}."
+    "sv": "{{category}} från {{cleanedBrand}}{{#if cleanedModel}}, modell {{cleanedModel}}{{/if}}.",
+    "en": "{{category}} from {{cleanedBrand}}{{#if cleanedModel}}, model {{cleanedModel}}{{/if}}.",
+    "de": "{{category}} von {{cleanedBrand}}{{#if cleanedModel}}, Modell {{cleanedModel}}{{/if}}.",
+    "da": "{{category}} fra {{cleanedBrand}}{{#if cleanedModel}}, model {{cleanedModel}}{{/if}}.",
+    "no": "{{category}} fra {{cleanedBrand}}{{#if cleanedModel}}, modell {{cleanedModel}}{{/if}}.",
+    "ko": "{{category}} {{cleanedBrand}}{{#if cleanedModel}}, modelo {{cleanedModel}}{{/if}}.",
+    "es": "{{category}} van {{cleanedBrand}}{{#if cleanedModel}}, model {{cleanedModel}}{{/if}}.",
+    "nl": "{{category}} van {{cleanedBrand}}{{#if cleanedModel}}, model {{cleanedModel}}{{/if}}."
   },
   "line2": {
     "sv": "Storlek: {{size}}",
@@ -40,13 +40,13 @@
     "nl": "Oorspronkelijke prijs: {{originalPrice}}"
   },
   "line5": {
-    "sv": "Skick: {{defects}}",
-    "en": "Condition: {{defects}}",
-    "de": "Zustand: {{defects}}",
-    "da": "Stand: {{defects}}",
-    "no": "Tilstand: {{defects}}",
-    "ko": "상태: {{defects}}",
-    "es": "Estado: {{defects}}",
-    "nl": "Staat: {{defects}}"
+    "sv": "Skick: {{condition}}",
+    "en": "Condition: {{condition}}",
+    "de": "Zustand: {{condition}}",
+    "da": "Stand: {{condition}}",
+    "no": "Tilstand: {{condition}}",
+    "ko": "상태: {{condition}}",
+    "es": "Estado: {{condition}}",
+    "nl": "Staat: {{condition}}"
   }
 }
