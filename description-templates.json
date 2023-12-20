@@ -30,14 +30,14 @@
     "nl": "Materiaal: {{material}}"
   },
   "line4": {
-    "sv": "Nypris: {{originalPrice}}",
-    "en": "Original price: {{originalPrice}}",
-    "de": "Neupreis: {{originalPrice}}",
-    "da": "Originalpris: {{originalPrice}}",
-    "no": "Opprinnelig pris: {{originalPrice}}",
-    "ko": "원래 가격: {{originalPrice}}",
-    "es": "Precio original: {{originalPrice}}",
-    "nl": "Oorspronkelijke prijs: {{originalPrice}}"
+    "sv": "{{#if originalPrice}}Nypris: {{originalPrice}}{{/if}}",
+    "en": "{{#if originalPrice}}Original price: {{originalPrice}}{{/if}}",
+    "de": "{{#if originalPrice}}Neupreis: {{originalPrice}}{{/if}}",
+    "da": "{{#if originalPrice}}Originalpris: {{originalPrice}}{{/if}}",
+    "no": "{{#if originalPrice}}Opprinnelig pris: {{originalPrice}}{{/if}}",
+    "ko": "{{#if originalPrice}}원래 가격: {{originalPrice}}{{/if}}",
+    "es": "{{#if originalPrice}}Precio original: {{originalPrice}}{{/if}}",
+    "nl": "{{#if originalPrice}}Oorspronkelijke prijs: {{originalPrice}}{{/if}}"
   },
   "line5": {
     "sv": "Skick: {{condition}}",
