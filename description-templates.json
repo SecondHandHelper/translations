@@ -40,13 +40,13 @@
     "nl": "{{#if originalPrice}}Oorspronkelijke prijs: {{originalPrice}}{{/if}}"
   },
   "line5": {
-    "sv": "{{#if originalPrice}}Skick: {{condition}}{{/if}}",
-    "en": "{{#if originalPrice}}Condition: {{condition}}{{/if}}",
-    "de": "{{#if originalPrice}}Zustand: {{condition}}{{/if}}",
-    "da": "{{#if originalPrice}}Stand: {{condition}}{{/if}}",
-    "no": "{{#if originalPrice}}Tilstand: {{condition}}{{/if}}",
-    "ko": "{{#if originalPrice}}상태: {{condition}}{{/if}}",
-    "es": "{{#if originalPrice}}Estado: {{condition}}{{/if}}",
-    "nl": "{{#if originalPrice}}Staat: {{condition}}{{/if}}"
+    "sv": "{{#if condition}}Skick: {{condition}}{{/if}}",
+    "en": "{{#if condition}}Condition: {{condition}}{{/if}}",
+    "de": "{{#if condition}}Zustand: {{condition}}{{/if}}",
+    "da": "{{#if condition}}Stand: {{condition}}{{/if}}",
+    "no": "{{#if condition}}Tilstand: {{condition}}{{/if}}",
+    "ko": "{{#if condition}}상태: {{condition}}{{/if}}",
+    "es": "{{#if condition}}Estado: {{condition}}{{/if}}",
+    "nl": "{{#if condition}}Staat: {{condition}}{{/if}}"
   }
 }
