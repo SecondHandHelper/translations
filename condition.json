@@ -1,6 +1,6 @@
 {
   "Helt ny, med prislapp kvar": {
-    "en": "Brand new, with price tag still on",
+    "en": "New, with tag",
     "de": "Brandneu, mit Etikett",
     "da": "Hele ny, med prisstickeren på",
     "no": "Helt ny, med prislapp",
@@ -10,7 +10,7 @@
     "sv": "Helt ny, med prislapp kvar"
   },
   "Helt ny, men utan prislapp": {
-    "en": "Brand new, but without price tag",
+    "en": "New, without tag",
     "de": "Brandneu, aber ohne Etikett",
     "da": "Helt ny, men uden prissticker",
     "no": "Helt ny, men uten prislapp",
@@ -20,7 +20,7 @@
     "sv": "Helt ny, men utan prislapp"
   },
   "Använd, men utan anmärkning": {
-    "en": "Used, but without remarks",
+    "en": "Used, without remarks",
     "de": "Gebraucht, aber ohne Anmerkung",
     "da": "Brugt, men uden bemærkninger",
     "no": "Brukt, men uten merknader",
