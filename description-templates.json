@@ -10,24 +10,24 @@
     "nl": "{{category}} van {{cleanedBrand}}{{#if cleanedModel}}, model {{cleanedModel}}{{/if}}."
   },
   "line2": {
-    "sv": "Storlek: {{size}}",
-    "en": "Size: {{size}}",
-    "de": "Größe: {{size}}",
-    "da": "Størrelse: {{size}}",
-    "no": "Størrelse: {{size}}",
-    "ko": "크기: {{size}}",
-    "es": "Tamaño: {{size}}",
-    "nl": "Maat: {{size}}"
+    "sv": "{{#if size}}Storlek: {{size}}{{/if}}",
+    "en": "{{#if size}}Size: {{size}}{{/if}}",
+    "de": "{{#if size}}Größe: {{size}}{{/if}}",
+    "da": "{{#if size}}Størrelse: {{size}}{{/if}}",
+    "no": "{{#if size}}Størrelse: {{size}}{{/if}}",
+    "ko": "{{#if size}}크기: {{size}}{{/if}}",
+    "es": "{{#if size}}Tamaño: {{size}}{{/if}}",
+    "nl": "{{#if size}}Maat: {{size}}{{/if}}"
   },
   "line3": {
-    "sv": "Material: {{material}}",
-    "en": "Material: {{material}}",
-    "de": "Material: {{material}}",
-    "da": "Materiale: {{material}}",
-    "no": "Materiale: {{material}}",
-    "ko": "재질: {{material}}",
-    "es": "Material: {{material}}",
-    "nl": "Materiaal: {{material}}"
+    "sv": "{{#if maiMaterial}}Material: {{maiMaterial}}{{/if}}",
+    "en": "{{#if maiMaterial}}Material: {{maiMaterial}}{{/if}}",
+    "de": "{{#if maiMaterial}}Material: {{maiMaterial}}{{/if}}",
+    "da": "{{#if maiMaterial}}Materiale: {{maiMaterial}}{{/if}}",
+    "no": "{{#if maiMaterial}}Materiale: {{maiMaterial}}{{/if}}",
+    "ko": "{{#if maiMaterial}}재질: {{maiMaterial}}{{/if}}",
+    "es": "{{#if maiMaterial}}Material: {{maiMaterial}}{{/if}}",
+    "nl": "{{#if maiMaterial}}Materiaal: {{maiMaterial}}{{/if}}"
   },
   "line4": {
     "sv": "{{#if originalPrice}}Nypris: {{originalPrice}}{{/if}}",
@@ -40,13 +40,13 @@
     "nl": "{{#if originalPrice}}Oorspronkelijke prijs: {{originalPrice}}{{/if}}"
   },
   "line5": {
-    "sv": "Skick: {{condition}}",
-    "en": "Condition: {{condition}}",
-    "de": "Zustand: {{condition}}",
-    "da": "Stand: {{condition}}",
-    "no": "Tilstand: {{condition}}",
-    "ko": "상태: {{condition}}",
-    "es": "Estado: {{condition}}",
-    "nl": "Staat: {{condition}}"
+    "sv": "{{#if originalPrice}}Skick: {{condition}}{{/if}}",
+    "en": "{{#if originalPrice}}Condition: {{condition}}{{/if}}",
+    "de": "{{#if originalPrice}}Zustand: {{condition}}{{/if}}",
+    "da": "{{#if originalPrice}}Stand: {{condition}}{{/if}}",
+    "no": "{{#if originalPrice}}Tilstand: {{condition}}{{/if}}",
+    "ko": "{{#if originalPrice}}상태: {{condition}}{{/if}}",
+    "es": "{{#if originalPrice}}Estado: {{condition}}{{/if}}",
+    "nl": "{{#if originalPrice}}Staat: {{condition}}{{/if}}"
   }
 }
