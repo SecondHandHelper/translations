@@ -1,5 +1,5 @@
 {
-  "black": {
+  "Black": {
     "en": "black",
     "de": "schwarz",
     "da": "sort",
@@ -9,7 +9,7 @@
     "nl": "zwart",
     "sv": "svart"
   },
-  "white": {
+  "White": {
     "en": "white",
     "de": "weiß",
     "da": "hvid",
@@ -19,7 +19,7 @@
     "nl": "wit",
     "sv": "vit"
   },
-  "blue": {
+  "Blue": {
     "en": "blue",
     "de": "blau",
     "da": "blå",
@@ -29,7 +29,7 @@
     "nl": "blauw",
     "sv": "blå"
   },
-  "red": {
+  "Red": {
     "en": "red",
     "de": "rot",
     "da": "rød",
@@ -39,7 +39,7 @@
     "nl": "rood",
     "sv": "röd"
   },
-  "yellow": {
+  "Yellow": {
     "en": "yellow",
     "de": "gelb",
     "da": "gul",
@@ -49,7 +49,7 @@
     "nl": "geel",
     "sv": "gul"
   },
-  "green": {
+  "Green": {
     "en": "green",
     "de": "grün",
     "da": "grøn",
@@ -59,7 +59,7 @@
     "nl": "groen",
     "sv": "grön"
   },
-  "multicolor": {
+  "Multicolour": {
     "en": "multicolor",
     "de": "mehrfarbig",
     "da": "multifarvet",
@@ -72,7 +72,7 @@
       "flerfärgad"
     ]
   },
-  "orange": {
+  "Orange": {
     "en": "orange",
     "de": "orange",
     "da": "orange",
@@ -82,7 +82,7 @@
     "nl": "oranje",
     "sv": "orange"
   },
-  "beige": {
+  "Beige": {
     "en": "beige",
     "de": "beige",
     "da": "beige",
@@ -92,7 +92,7 @@
     "nl": "beige",
     "sv": "beige"
   },
-  "pink": {
+  "Pink": {
     "en": "pink",
     "de": "rosa",
     "da": "rosa",
@@ -102,7 +102,7 @@
     "nl": "roze",
     "sv": "rosa"
   },
-  "turquoise": {
+  "Turquoise": {
     "en": "turquoise",
     "de": "türkis",
     "da": "turkis",
@@ -112,7 +112,7 @@
     "nl": "turkoois",
     "sv": "turkos"
   },
-  "purple": {
+  "Purple": {
     "en": "purple",
     "de": "lila",
     "da": "lilla",
@@ -122,7 +122,7 @@
     "nl": "paars",
     "sv": "lila"
   },
-  "gray": {
+  "Grey": {
     "en": "gray",
     "de": "grau",
     "da": "grå",
@@ -135,7 +135,7 @@
       "grey"
     ]
   },
-  "brown": {
+  "Brown": {
     "en": "brown",
     "de": "braun",
     "da": "brun",
@@ -145,7 +145,7 @@
     "nl": "bruin",
     "sv": "brun"
   },
-  "gold": {
+  "Gold": {
     "en": "gold",
     "de": "gold",
     "da": "guld",
@@ -155,7 +155,7 @@
     "nl": "goud",
     "sv": "guld"
   },
-  "silver": {
+  "Silver": {
     "en": "silver",
     "de": "silber",
     "da": "sølv",
