@@ -67,10 +67,7 @@
     "ko": "다색",
     "es": "multicolor",
     "nl": "meerkleurig",
-    "sv": [
-      "flerfärgad",
-      "flerfärgad"
-    ]
+    "sv": "flerfärgad"
   },
   "Orange": {
     "en": "orange",
@@ -130,10 +127,7 @@
     "ko": "회색",
     "es": "gris",
     "nl": "grijs",
-    "sv": [
-      "grå",
-      "grey"
-    ]
+    "sv": "grå"
   },
   "Brown": {
     "en": "brown",
