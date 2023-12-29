@@ -778,5 +778,25 @@
     "es": "Mocasín",
     "nl": "Mocasín",
     "sv": "Loafers"
+  },
+  "Vinterskor": {
+    "en": "Winter shoes",
+    "de": "Winterschuhe",
+    "da": "Vinterskor",
+    "no": "Vinterskor",
+    "ko": "Vinterskor",
+    "es": "Vinterskor",
+    "nl": "Vinterskor",
+    "sv": "Vinterskor"
+  },
+  "Pälsjacka": {
+    "en": "Fur jacket",
+    "de": "Pelzjacke",
+    "da": "Pälsjacka",
+    "no": "Pälsjacka",
+    "ko": "Pälsjacka",
+    "es": "Pälsjacka",
+    "nl": "Pälsjacka",
+    "sv": "Pälsjacka"
   }
 }
